@@ -2,8 +2,6 @@
 
 You need some Python packages, so run
 
-
-
 sudo apt install python3
 sudo apt install python3-pip
 sudo apt install python3-venv
