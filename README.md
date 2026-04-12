@@ -1,6 +1,10 @@
 # Asterisk-VtigerCRM-PBX-connector-
 
-You need some Python packages, so run
+1) At your CRM PBX configuration page 
+fill Vtiger Asterisk App URL with http://pbx-domain:5000 and Outbound with Context	from-internal. Secret for now is useless.
+
+
+2)You need some Python packages, so run
 
 sudo apt install python3
 sudo apt install python3-pip
