@@ -1,5 +1,5 @@
 # Asterisk-VtigerCRM-PBX-connector-
 
-You need pyst2 that is a Python Interface to Asterisk, run
+You need some Python packages, so run
 
-pip install pyst2
+pip install pyst2 requests flask flask_cors
