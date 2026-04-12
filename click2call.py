@@ -1,6 +1,3 @@
-#At your CRM PBX conf page putt Vtiger Asterisk App URL http://pbx-domain:5000 and Outbound Context	from-internal
-
-
 from flask import Flask, request, jsonify
 from asterisk.manager import Manager
 
