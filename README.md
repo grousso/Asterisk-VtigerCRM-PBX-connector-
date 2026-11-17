@@ -1,3 +1,8 @@
+> **This repository is no longer maintained.**
+> The current version - with incoming-call popup, call logging, ring-group support,
+> click-to-call with secret check and full installation instructions - is here:
+> **https://github.com/grousso/vtiger-asterisk-pjsip-connector**
+
 # Asterisk-VtigerCRM-PBX-connector-
 
 1) At your CRM PBX configuration page 
